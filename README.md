@@ -6,4 +6,7 @@
 
 ## Day 2 : 2024_07_06
 - Continuing with the backend. Implemented the routes.
-- Started with database (SQL) 
+- Started with database (SQL)
+  
+## Day 3 : 2024_07_08
+- Setting up schemas and models 
