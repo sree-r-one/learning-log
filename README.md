@@ -8,5 +8,11 @@
 - Continuing with the backend. Implemented the routes.
 - Started with database (SQL)
   
-## Day 3 : 2024_07_08
+## Day 3 : 2024_07_08 
 - Setting up schemas and models 
+
+## Day 4 : 2024_07_10
+- Setting up response model
+- Setting up user database
+- Hashing the password with bcrypt
+- adding fastapi routers 
