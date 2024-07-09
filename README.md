@@ -16,3 +16,5 @@
 - Setting up user database
 - Hashing the password with bcrypt
 - adding fastapi routers 
+
+![image](https://github.com/sree-r-one/learning-log/assets/19352785/928a81e9-ac2e-4072-a744-ed52409d24c9)
