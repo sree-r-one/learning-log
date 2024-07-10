@@ -18,3 +18,8 @@
 - adding fastapi routers 
 
 ![image](https://github.com/sree-r-one/learning-log/assets/19352785/928a81e9-ac2e-4072-a744-ed52409d24c9)
+
+## Day 5 : 2024_07_11
+- Setting up JWT
+
+- 
